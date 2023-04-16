@@ -1,12 +1,14 @@
+![MasterHead](https://st2.depositphotos.com/7341970/10354/v/950/depositphotos_103543400-stock-illustration-web-and-software-developer-banner.jpg)
 <h1 align="center">Hi 👋, I'm Puneeth S</h1>
 <h3 align="center">👋 Hi there! I'm a tech enthusiast with a passion for coding and problem-solving. 💻 My expertise lies in HTML, CSS, JavaScript, and Java programming, and I also have experience working with Python, AI, ML,Android, Cloud, and IoT. 🚀 I've worked on exciting projects using Django, built web applications, and even dabbled in ML. 🤖 I'm always looking for new challenges and opportunities to learn and grow as a developer. Let's connect and create something amazing together! 🤝</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=puneeths1&label=Profile%20views&color=0e75b6&style=flat" alt="puneeths1" /> </p>
 
 
-- 🌱 I’m currently learning **REACT JS,Tailwind CSS**
+- 🌱 I’m currently learning **REACT JS**
 
-- 👨‍💻 All of my projects are available at my [Github Profile](Github Profile)
+- 👨‍💻 All of my projects are available at my [Github Profile](https://github.com/puneeths1)
 
 - 💬 Ask me about **JAVA,Python,HTML,CSS,Javascript,AI,ML,IOT,CLOUD**
 
